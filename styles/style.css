@@ -308,7 +308,6 @@
 }
 
 .about_column {
-  display: inline-block;
   width: 693px;
   margin: 133px 0 13px 0;
   display: flex;
